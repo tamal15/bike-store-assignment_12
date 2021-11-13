@@ -1,4 +1,4 @@
-# niche-website-server-side-tamal15
+# Bike store
 niche-website-server-side-tamal15 created by GitHub Classroom
 
 bike store 
